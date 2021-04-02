@@ -16,6 +16,7 @@ O chão da fábrica devera ter funcionalidades específicas
 ## Composição da nota do grupo
 
 Primeiro tivemos de arrumar o Arduino, pois havia fios e peças que estavam feltando e que deveriam ser colocados por terem grande importancia.
+![]
 
 Segundo arrumamos e adcionamos códigos faltantes. Também deixamos especificado oque cada código tem de a fazer, para termos mais facilidade na organização.
 
