@@ -22,7 +22,8 @@ O Primeiro passo foi arrumar o Arduino, pois havia fios e peças que estavam fel
 ![](https://github.com/Luana-strutzel/Arduino_AC1/blob/main/coding%201.png)
 
 Segundo arrumamos e adcionamos códigos faltantes. Também deixamos especificado oque cada código tem de a fazer, para termos mais facilidade na organização.
-
+![](
+![](
 
 ## Short Bio:
 
